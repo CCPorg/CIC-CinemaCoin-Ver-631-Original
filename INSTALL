@@ -1,0 +1,9 @@
+Building CinemaCoin
+
+See doc/readme-qt.rst for instructions on building CinemaCoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CinemaCoin.
+
+See doc/build-*.txt for instructions on building CinemaCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of CinemaCoin.
